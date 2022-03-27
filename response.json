@@ -1,0 +1,16 @@
+{
+  "accessToken": {
+    "expiry": "yyyy-MM-dd HH:mm:ss",
+    "value": "string"
+  },
+  "createDate": "yyyy-MM-dd HH:mm:ss",
+  "email": "string",
+  "name": "string",
+  "refreshToken": {
+    "expiry": "yyyy-MM-dd HH:mm:ss",
+    "value": "string"
+  },
+  "status": 0,
+  "updateDate": "yyyy-MM-dd HH:mm:ss",
+  "userId": 0
+}
